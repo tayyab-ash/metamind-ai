@@ -196,6 +196,7 @@ You may want to add a license (e.g., MIT, Apache 2.0) to clarify usage rights.
    - [Sanket Bodake](https://www.linkedin.com/in/sanket-b-3ab030245/)
    - [Puroshotam Singh](https://www.linkedin.com/in/puroshotam-singh/)
    - [Fahad Abbas](https://www.linkedin.com/in/fahadabbas-3042b0212/)
+   - [Muhammad Tayyab](https://www.linkedin.com/in/tayyab-ash/)
 - **Contributions**: PRs are welcome! Fork the repo, add features, and open a pull request.
 
 ---
